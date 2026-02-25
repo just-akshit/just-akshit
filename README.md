@@ -38,7 +38,7 @@ This project focuses on real-world backend architecture, authentication, and rol
 
 ### 👨‍💻 Languages
 
-C++ • JavaScript • HTML • CSS
+Java• JavaScript • HTML • CSS
 
 ### ⚡ Frontend
 
@@ -93,7 +93,7 @@ Git • GitHub • Postman • VS Code • npm
 
 ## 🌐 Portfolio
 
-👉 https://your-portfolio-link.vercel.app/
+
 
 ---
 
@@ -106,11 +106,11 @@ Node.js • Express • MongoDB • REST APIs • Authentication • MERN • DS
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/your-leetcode-username/" target="blank">
+
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
